@@ -17,7 +17,7 @@ Projeto desevolvido com a intenção de organização. A Secretaria Goes foi cri
 
 
 # Problema
-A falta de organização dos documentos da secretaria pode causar problemas, papel pode facilmente molhar, ou talvez pegue fogo, pode envelhecer, entre outras coisas.
+A falta de organização dos documentos da secretaria pode causar problemas, papel pode facilmente molhar, ou talvez pegue fogo, pode envelhecer, entre outras coisas. Como já ocorreu uma situação em nosso ambiente escolar em que a secretaria perdeu todos os nossos documentos ques estavam salvos em uma pasta no computador e passamos pelo processo de levar alguns papéis para nossos resposáveis asssinarem e a escola ter novamente acesso a esses arquivos, isso nos motivou a fazer esse projeto pois de fato nos provou que a secretaria está desorganizada. 
 
 # Funcionalidades 
 :heavy_check_mark: Funcionalidade 1: Realizar registro dos alunos e professores.
@@ -29,9 +29,13 @@ A falta de organização dos documentos da secretaria pode causar problemas, pap
 :heavy_check_mark: Funcionalidade 4: Acesso a dados dos alunos e funcionarios
 
 # Aplicação
-![0001-4057317411](https://user-images.githubusercontent.com/130758955/236454569-8f704de8-8c40-474f-a12a-f7edd1626d6f.png)
+![0001-4057317411](https://user-images.githubusercontent.com/130758955/236454569-8f704de8-8c40-474f-a12a-f7edd1626d6f.png) 
+![image_6483441](https://github.com/nascvanessa/Goes/assets/130758955/ecd951c4-b36e-4154-937e-febd87cd558c)
+
 
 # Ferramentas Utilizadas
+![image](https://github.com/nascvanessa/Goes/assets/130758955/b4d90645-14e0-414a-a72b-0fdc4aef4f2c)
+
 
 # Acesso ao Projeto
 Entrada com numero de matricula ou CPF.
