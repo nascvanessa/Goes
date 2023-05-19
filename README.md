@@ -1,4 +1,4 @@
-#Secretaria Goes
+#Secretaria Goes 
 <h1 align="center">Secretaria Goes</h1>
 
 ![Projeto Secretaria Góes](https://user-images.githubusercontent.com/130758955/236444072-765d5086-5698-4bb4-9963-03e26e5e7e3f.png)
@@ -35,6 +35,11 @@ A falta de organização dos documentos da secretaria pode causar problemas, pap
 
 # Ferramentas Utilizadas
 ![image](https://github.com/nascvanessa/Goes/assets/130758955/b4d90645-14e0-414a-a72b-0fdc4aef4f2c)
+
+# Diagramas
+https://drive.google.com/file/d/1-YeHSqBAWiHbWom3VlryyRU38x1J7Pon/view?usp=drivesdk 
+
+![image](https://github.com/nascvanessa/Goes/assets/130758955/32d8087a-a5a5-4410-87f3-9e62e71c1580)
 
 
 # Acesso ao Projeto
