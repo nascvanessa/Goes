@@ -39,6 +39,8 @@ A falta de organização dos documentos da secretaria pode causar problemas, pap
 # Diagramas
 https://drive.google.com/file/d/1-YeHSqBAWiHbWom3VlryyRU38x1J7Pon/view?usp=drivesdk 
 
+![image](https://github.com/nascvanessa/Goes/assets/130758955/35de5d37-dcfa-4953-88b1-d36a676f584d)
+
 ![image](https://github.com/nascvanessa/Goes/assets/130758955/32d8087a-a5a5-4410-87f3-9e62e71c1580)
 
 
